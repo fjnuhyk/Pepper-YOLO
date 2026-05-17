@@ -2,7 +2,9 @@
 An Lightweight Model for Green Pepper Detection and Picking Point Localization in Complex Environments.
 If you need the model source code, please contact fjnuhyk@163.com.
 
-'''
+If you find this work useful, please cite:
+
+```bibtex
 @article{huang_pepper-yolo_2024,
 	title = {Pepper-{YOLO}: an lightweight model for green pepper detection and picking point localization in complex environments},
 	volume = {15},
@@ -19,4 +21,3 @@ If you need the model source code, please contact fjnuhyk@163.com.
 	keywords = {lightweight model, picking robot, Pepper-YOLO, picking point localization, green pepper detection},
 	pages = {1--14},
 }
-'''
