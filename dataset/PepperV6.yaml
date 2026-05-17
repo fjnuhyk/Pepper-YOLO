@@ -1,0 +1,17 @@
+﻿
+
+
+
+
+path: K:\BaiduNetdiskWorkspace\DataSet\Pepper2025\PepperV7
+train: K:\BaiduNetdiskWorkspace\DataSet\Pepper2025\PepperV7\train
+val: K:\BaiduNetdiskWorkspace\DataSet\Pepper2025\PepperV7\val
+test: K:\BaiduNetdiskWorkspace\DataSet\Pepper2025\PepperV7\test
+
+
+
+nc: 1
+kpt_shape: [3, 3]
+
+
+names: [ 'Pepper' ]
